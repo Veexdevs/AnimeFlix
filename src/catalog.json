@@ -1,0 +1,861 @@
+{
+  "anime": [
+    {
+      "mal_id": 20,
+      "title": "Naruto",
+      "title_english": "Naruto",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/142503.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/20",
+      "type": "TV",
+      "episodes": 220,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 21,
+      "title": "One Piece",
+      "title_english": "One Piece",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1244/138851.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/21",
+      "type": "TV",
+      "episodes": 0,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 16498,
+      "title": "Shingeki no Kyojin",
+      "title_english": "Attack on Titan",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/16498",
+      "type": "TV",
+      "episodes": 25,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 1535,
+      "title": "Death Note",
+      "title_english": "Death Note",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/138100.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/1535",
+      "type": "TV",
+      "episodes": 37,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 5114,
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "title_english": "Fullmetal Alchemist: Brotherhood",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/5114",
+      "type": "TV",
+      "episodes": 64,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 30276,
+      "title": "One Punch Man",
+      "title_english": "One-Punch Man",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/12/76049.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/30276",
+      "type": "TV",
+      "episodes": 12,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 11757,
+      "title": "Sword Art Online",
+      "title_english": "Sword Art Online",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/11/39717.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/11757",
+      "type": "TV",
+      "episodes": 25,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 38000,
+      "title": "Kimetsu no Yaiba",
+      "title_english": "Demon Slayer: Kimetsu no Yaiba",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/38000",
+      "type": "TV",
+      "episodes": 26,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 40748,
+      "title": "Jujutsu Kaisen",
+      "title_english": "Jujutsu Kaisen",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/40748",
+      "type": "TV",
+      "episodes": 24,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 1735,
+      "title": "Naruto: Shippuuden",
+      "title_english": "Naruto Shippuden",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/1735",
+      "type": "TV",
+      "episodes": 500,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 31964,
+      "title": "Boku no Hero Academia",
+      "title_english": "My Hero Academia",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/10/78745.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/31964",
+      "type": "TV",
+      "episodes": 13,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 11061,
+      "title": "Hunter x Hunter (2011)",
+      "title_english": "Hunter x Hunter",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/11061",
+      "type": "TV",
+      "episodes": 148,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 52991,
+      "title": "Sousou no Frieren",
+      "title_english": "Frieren: Beyond Journey's End",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/52991",
+      "type": "TV",
+      "episodes": 28,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 9253,
+      "title": "Steins;Gate",
+      "title_english": "Steins;Gate",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/9253",
+      "type": "TV",
+      "episodes": 24,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 22319,
+      "title": "Tokyo Ghoul",
+      "title_english": "Tokyo Ghoul",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/22319",
+      "type": "TV",
+      "episodes": 12,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 20583,
+      "title": "Haikyuu!!",
+      "title_english": "Haikyu!!",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/7/76014.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/20583",
+      "type": "TV",
+      "episodes": 25,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 269,
+      "title": "Bleach",
+      "title_english": "Bleach",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1541/147774.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/269",
+      "type": "TV",
+      "episodes": 366,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 38691,
+      "title": "Dr. Stone",
+      "title_english": "Dr. Stone",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1613/102576.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/38691",
+      "type": "TV",
+      "episodes": 24,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 30240,
+      "title": "Prison School",
+      "title_english": "Prison School",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1286/112161.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/30240",
+      "type": "TV",
+      "episodes": 12,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 47917,
+      "title": "Bocchi the Rock!",
+      "title_english": "Bocchi the Rock!",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1448/127956.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/47917",
+      "type": "TV",
+      "episodes": 12,
+      "chapters": null,
+      "_type": "anime"
+    },
+    {
+      "mal_id": 50602,
+      "title": "Spy x Family Part 2",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://cdn.myanimelist.net/images/anime/1111/127508.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/anime/50602",
+      "type": "TV",
+      "episodes": 13,
+      "chapters": null,
+      "_type": "anime"
+    }
+  ],
+  "manga": [
+    {
+      "mal_id": 154587,
+      "title": "Pick Me Up",
+      "title_english": "Pick Me Up!",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx159441-9W8201jAT9Yv.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/154587",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 3784,
+      "title": "Black Sun",
+      "title_english": "BLACK SUN Doreiou",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/3784.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/3784",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 12,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 184077,
+      "title": "The Turn-Based Mage",
+      "title_english": "Turn-jeui Mabeopsa",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx195924-nFExCDmisqCt.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/184077",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 53,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 174559,
+      "title": "The Regressed Mercenary Has a Plan",
+      "title_english": "Hoegwihan Yongbyeongeun Da Gyehoegi Itda",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx182066-kqOV7WW1DAH4.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/174559",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 87609,
+      "title": "That Time I Got Reincarnated as a Slime",
+      "title_english": "Tensei Shitara Slime datta Ken",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86399-NwbRFVh5koqc.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/87609",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 13,
+      "title": "One Piece",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30013-BeslEMqiPhlk.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/13",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 67615,
+      "title": "The Rising of the Shield Hero",
+      "title_english": "Tate no Yuusha no Nariagari",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85442-pIcvm2OjfTjR.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/67615",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 86337,
+      "title": "Black Clover",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx86123-Ill8uBdtvWrR.png"
+        }
+      },
+      "url": "https://myanimelist.net/manga/86337",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 392,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 130331,
+      "title": "Shangri-La Frontier",
+      "title_english": "Shangri-La Frontier: Kusoge Hunter, Kami ge ni Idoman to su",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx122063-j2wIvwb6yzPM.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/130331",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 132214,
+      "title": "Omniscient Reader",
+      "title_english": "Jeonjijeok Dokja Sijeom",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx119257-Pi21aq3ey9GG.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/132214",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 119022,
+      "title": "The Eminence in Shadow",
+      "title_english": "Kage no Jitsuryokusha ni Naritakute!",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/119022",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 132247,
+      "title": "A Returner's Magic Should Be Special",
+      "title_english": "Gwihwanjaui Mabeobeun Teukbyeolhaeya Hamnida",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx105393-oiHumQoBGKG5.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/132247",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 268,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 122663,
+      "title": "Tower of God",
+      "title_english": "Sinui Tap",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85143-23oup3ETbFJk.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/122663",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 130216,
+      "title": "Tomb Raider King",
+      "title_english": "Dogul Wang",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110462-okQFIoSFvb4L.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/130216",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 411,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 146909,
+      "title": "SSS-Class Revival Hunter",
+      "title_english": "SSS-geup Jugeoya Saneun Hunter",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx128067-wnLBg6Cy1ncs.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/146909",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147438,
+      "title": "Dungeon Reset",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx116506-D6cG2hsUzSpx.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147438",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 266,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147455,
+      "title": "Masters of Lightning Knives",
+      "title_english": "Biroe-do",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127848-ZaR7DiGxY3Y3.png"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147455",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147843,
+      "title": "The Worn and Torn Newbie",
+      "title_english": "Dalko Dareun Newbie",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx127102-UUP1Oj14Wd4Y.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147843",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 243,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 152565,
+      "title": "Jack-of-All-Trades, Party of None",
+      "title_english": "Yuusha Party wo Oidasareta Kiyoubinbou: Party Jijou de Fuyojutsushi wo Yatteita Kenshi, Bannou e to Itaru",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146878-BN1vrmuNqcO8.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/152565",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 152946,
+      "title": "Versus",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b156553-A4LuBaKiHN06.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/152946",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147532,
+      "title": "God of Blackfield",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118267-hfGEZNguWhiq.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147532",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 127907,
+      "title": "Kaiju No.8",
+      "title_english": "Kaijuu 8-gou",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120760-MtXvMgujLBpe.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/127907",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 129,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147389,
+      "title": "Log-in Murim",
+      "title_english": "Login Murim",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120385-4JYGuOR6cn72.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147389",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 146752,
+      "title": "Study Group",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx110472-jxJG7CZ3lf4d.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/146752",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147217,
+      "title": "The World After the Fall",
+      "title_english": "Myeolmang Ihuui Segye",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx144957-h0qIwRwxOEdg.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147217",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147724,
+      "title": "Hwasanjeonsaeng",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101418-YMJ7vXuXyZ1q.png"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147724",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 303,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 148456,
+      "title": "Disciple of the Holy Sword",
+      "title_english": "Geomppallo Level Up",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx150508-xh4xwMVQB6Vf.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/148456",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147693,
+      "title": "The Archmage Returns After 4000 Years",
+      "title_english": "4000 Nyeon Mane Gwihwanhan Daemadosa",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx118424-JbTApgnIP1ON.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147693",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 127781,
+      "title": "As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the World",
+      "title_english": "Tensei Kizoku Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuidanode, Yuushuuna Jinzai wo Fuyashite Itara, Saikyou Ryouchi ni Natteta",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx121753-vhvIdfxdaEdF.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/127781",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147202,
+      "title": "My S-Class Hunters",
+      "title_english": "Naega Kiun S-Geupdeul",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141958-y46ASozodVNW.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147202",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147727,
+      "title": "Overgeared",
+      "title_english": "Temppal",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx117460-46JbftfHSXoc.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147727",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 139761,
+      "title": "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+      "title_english": "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha no Yume wo Miru",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx131041-I06OpqQxE95F.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/139761",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147569,
+      "title": "The Celestial Returned from Hell",
+      "title_english": "Jiogeseo Doraon Seongjwanim",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132457-sGQqSZbDoKJR.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147569",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 151440,
+      "title": "Akdangi Saraganeun Beop",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx141954-7C2eS3NdcBx3.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/151440",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": 199,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 184894,
+      "title": "Ranker's Return",
+      "title_english": "Ranker-ui Gwihwan",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx137969-3lgIaXzGgz65.png"
+        }
+      },
+      "url": "https://myanimelist.net/manga/184894",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    },
+    {
+      "mal_id": 147863,
+      "title": "Nano Machine",
+      "title_english": "",
+      "images": {
+        "jpg": {
+          "large_image_url": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120980-RZ9WLd0o9hyo.jpg"
+        }
+      },
+      "url": "https://myanimelist.net/manga/147863",
+      "type": "Mangá",
+      "episodes": null,
+      "chapters": null,
+      "_type": "manga"
+    }
+  ]
+}
