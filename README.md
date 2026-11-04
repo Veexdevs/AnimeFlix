@@ -20,3 +20,7 @@ Para gerar o site: `npm run build`. Publique a pasta `dist` em qualquer hospedag
 O workflow gera artefatos para download na página da execução: site estático, APK Android **debug**, instalador Windows e IPA iOS **não assinado**. O APK debug e o executável não são assinados para distribuição comercial. O IPA não assinado não pode ser instalado normalmente: distribuição em aparelhos iOS exige conta Apple Developer, certificados, provisioning profiles e assinatura apropriados. Para publicar nas lojas, configure assinatura e identidade próprias. Os builds dependem dos ambientes e ferramentas disponibilizados pelos runners do GitHub.
 
 Para publicar no GitHub Pages, escolha **GitHub Actions** como origem em Settings → Pages e execute manualmente o workflow “Publicar site no GitHub Pages” na branch desejada.
+
+### Disponibilidade do catálogo
+
+Cada seleção da Jikan é carregada separadamente, para que uma falha não esconda as demais. Se a API estiver indisponível, o aplicativo mostra uma seleção local de metadados e informa que está no modo salvo. A busca também consulta essa seleção enquanto tenta a API. As capas continuam dependendo dos servidores externos; quando não carregam, o título é exibido no lugar. A seleção local foi preparada a partir dos dados públicos de [Ani-Mangalist](https://github.com/edivaldolluisb/animeData) (MIT) e não representa novidades em tempo real.
