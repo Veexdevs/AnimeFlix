@@ -1,0 +1,59 @@
+name: Build AnimeFlix
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  web:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-artifact@v4
+        with: { name: animeflix-web, path: dist }
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: 17 }
+      - run: npm ci
+      - run: npm run build
+      - run: npx cap add android && npx cap sync android
+      - run: cd android && ./gradlew assembleDebug
+      - uses: actions/upload-artifact@v4
+        with: { name: animeflix-android-debug, path: android/app/build/outputs/apk/debug/*.apk }
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - run: npm ci
+      - run: npm run build
+      - run: npm run dist:win
+      - uses: actions/upload-artifact@v4
+        with: { name: animeflix-windows, path: 'release/*.exe' }
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20, cache: npm }
+      - run: npm ci
+      - run: npm run build
+      - run: npx cap add ios && npx cap sync ios
+      - name: Build unsigned iOS app
+        run: xcodebuild -workspace ios/App/App.xcworkspace -scheme App -configuration Release -sdk iphoneos -derivedDataPath ios-build CODE_SIGNING_ALLOWED=NO build
+      - name: Package unsigned IPA
+        run: mkdir -p Payload && cp -R ios-build/Build/Products/Release-iphoneos/App.app Payload/ && zip -qr animeflix-unsigned.ipa Payload
+      - uses: actions/upload-artifact@v4
+        with: { name: animeflix-ios-unsigned, path: animeflix-unsigned.ipa }
